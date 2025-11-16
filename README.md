@@ -8,7 +8,7 @@ A clean and fast **Internal Marks Calculator** that helps students compute their
 
 ---
 
-[![View Live](https://img.shields.io/badge/🔗%20View%20Live-Internal%20Marks%20Calculator-blue?style=for-the-badge)](https://imdilshan.github.io/Internal-Marks-Calculator/)
+[![View Live](https://img.shields.io/badge/🔗%20View%20Live-Internal%20Marks%20Calculator-blue?style=for-the-badge)](https://thesatyam-singh.github.io/Internal-Marks-Calculator/)
 
 ---
 
@@ -33,7 +33,7 @@ A clean and fast **Internal Marks Calculator** that helps students compute their
 
 ## 🚀 Try It Now
 
-👉 **https://imdilshan.github.io/Internal-Marks-Calculator/**
+👉 **https://thesatyam-singh.github.io/Internal-Marks-Calculator/**
 
 ---
 
